@@ -1,2 +1,2 @@
 # Patika-Odevler
-patika.dev odevleri
+[patika.dev/akslepis linkim](https://app.patika.dev/akslepis) yapmış olduğum bütün ödevler
