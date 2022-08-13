@@ -1,0 +1,36 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.box{
+    margin: 1px 75px;
+    height: 65px;
+    vertical-align: middle;
+}
+.table-cell{
+    display: table-cell;
+    vertical-align: middle;
+}
+.form{
+    display: table;
+    text-align: center;
+    margin-right: 0.5%;
+    height:80px;
+    vertical-align: middle;
+    float: left;  
+}
+section{
+    display: flex;
+    margin: auto;
+    align-items:center;
+    justify-content:center;
+}
+
+.bg-box{
+    background-color: #d3d4d4;
+}
+.bg-aqua{
+    background-color: aqua;
+}

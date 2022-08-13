@@ -1,0 +1,70 @@
+
+h1,h2,h3,h4,h5,h6{
+    color: red;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.upper{
+    text-transform: uppercase;
+}
+
+#footer{
+    position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   
+}
+.center-auto {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  .center-text {
+    text-align: center;
+    
+  }
+  .list-center{
+    position: absolute;
+    left: 40%;
+  }
+  .list-center-relative{
+    position: relative;
+    left: 40%;
+  }
+
+.fs-30{
+
+    font-size: 30px;
+}
+hr{
+    height: 1px;
+    background-color: rgb(70, 214, 27);
+    border: none;
+}
+
+.fs-40{
+    font-size: 40px;
+}
+
+.fs-20{
+    font-size: 20px;
+}
+
+.color-red{
+    color: red;
+}
+
+.color-cyan{
+    color: cyan
+}
+
+.bold{
+    font-weight: bold;
+}
+
